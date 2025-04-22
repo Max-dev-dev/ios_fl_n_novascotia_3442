@@ -10,7 +10,7 @@ workflows:
         distribution_type: app_store
         bundle_identifier: com.baywatch.novascotia
       vars:
-        APP_ID: 00000000
+        APP_ID: 6744944686
       flutter: stable
       xcode: latest
       cocoapods: default
