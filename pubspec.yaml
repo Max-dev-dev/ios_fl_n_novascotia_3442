@@ -1,0 +1,41 @@
+name: ios_fl_n_novascotia_3443
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  logger: ^2.5.0
+  flutter_bloc: ^9.0.0
+  font_awesome_flutter: ^10.8.0
+  flutter_map: ^8.1.1
+  latlong2: ^0.9.1
+  share_plus: ^11.0.0
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+  shared_preferences: ^2.5.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  build_runner: ^2.4.6
+  freezed: ^2.4.5
+  json_serializable: ^6.7.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/
+    - assets/images/whales/
+    - assets/images/tours/
+    - assets/images/ships/
+    - assets/images/onboarding/
+    - assets/images/game_icons/

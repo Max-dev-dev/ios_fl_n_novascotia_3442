@@ -1,0 +1,165 @@
+{
+    "places": [
+        {
+            "id": 1,
+            "tour": {
+                "name": "Halifax Waterfront Tours",
+                "image": "assets/images/tours/4.png",
+                "cost": "2/3",
+                "whale_sighting_chance": "★★★★",
+                "address": "1751 Lower Water St, Halifax, NS",
+                "coordinates": "44.6453° N, 63.5670° W",
+                "description": "Conveniently located in downtown Halifax, just a 20-minute sail to open waters. Frequent sightings of humpback whales make it a favorite starting point for marine adventures.",
+                "duration": "~3 hours"
+            },
+            "ship": {
+                "name": "Halifax Waterfront Tours – \"Sea Voyager\"",
+                "image": "assets/images/ships/3.png",
+                "description": "Sea Voyager is a modern twin-hull catamaran designed for whale watching and sightseeing. With an open-air observation deck and covered seating, it offers panoramic ocean views and a smooth ride even in choppier waters. Ideal for families and photographers alike."
+            },
+            "whale": {
+                "name": "Humpback Whale (Megaptera novaeangliae)",
+                "image": "assets/images/whales/4.png",
+                "description": "Humpback whales are among the most recognizable and acrobatic whale species. Known for their impressive breaching and tail-slapping displays, these whales can grow up to 16 meters long and weigh around 30 tons. They are often seen feeding near the surface, using bubble-net techniques to capture schools of fish. Their long pectoral fins and unique fluke patterns make them easy to identify. In Nova Scotia, humpbacks are commonly spotted from June to October during their feeding migrations."
+            }
+        },
+        {
+            "id": 2,
+            "tour": {
+                "name": "Lunenburg Whale Adventures",
+                "image": "assets/images/tours/3.png",
+                "cost": "2/3",
+                "whale_sighting_chance": "★★★",
+                "address": "94 Montague St, Lunenburg, NS",
+                "coordinates": "44.3763° N, 64.3136° W",
+                "description": "Departing from the historic UNESCO town of Lunenburg, this cruise offers scenic coastal views and good chances to spot fin whales and playful dolphins.",
+                "duration": "~2.5 hours"
+            },
+            "ship": {
+                "name": "Lunenburg Whale Adventures – \"Blue Horizon\"",
+                "image": "assets/images/ships/7.png",
+                "description": "Blue Horizon is a medium-sized motorboat crafted for coastal adventures. It offers a comfortable sheltered area, quick access to deeper waters, and on-board binoculars for spotting whales and seabirds. Perfect for short, action-packed excursions."
+            },
+            "whale": {
+                "name": "Fin Whale (Balaenoptera physalus)",
+                "image": "assets/images/whales/2.png",
+                "description": "The fin whale, the second-largest animal on Earth after the blue whale, is known for its sleek, streamlined body and powerful swimming ability. These giants can reach lengths of up to 24 meters and weigh as much as 80 tons. Fin whales are fast and can sometimes be seen swimming just below the surface at high speeds. In the Bay of Fundy and surrounding areas, they are spotted feeding on small fish and krill, usually from July through September."
+            }
+        },
+        {
+            "id": 3,
+            "tour": {
+                "name": "Digby Neck Cruises",
+                "image": "assets/images/tours/2.png",
+                "cost": "1/3",
+                "whale_sighting_chance": "★★★★",
+                "address": "8400 Hwy 217, Whale Cove, NS",
+                "coordinates": "44.4870° N, 66.1125° W",
+                "description": "One of the top regions for whale watching. Frequent encounters with humpback and minke whales in the rich feeding grounds off Digby Neck.",
+                "duration": "~4 hours"
+            },
+            "ship": {
+                "name": "Digby Neck Cruises – \"Bay Spirit\"",
+                "image": "assets/images/ships/1.png",
+                "description": "Blue Horizon is a medium-sized motorboat crafted for coastal adventures. It offers a comfortable sheltered area, quick access to deeper waters, and on-board binoculars for spotting whales and seabirds. Perfect for short, action-packed excursions."
+            },
+            "whale": {
+                "name": "Humpback Whale (Megaptera novaeangliae)",
+                "image": "assets/images/whales/4.png",
+                "description": "Humpback whales are among the most recognizable and acrobatic whale species. Known for their impressive breaching and tail-slapping displays, these whales can grow up to 16 meters long and weigh around 30 tons. They are often seen feeding near the surface, using bubble-net techniques to capture schools of fish. Their long pectoral fins and unique fluke patterns make them easy to identify. In Nova Scotia, humpbacks are commonly spotted from June to October during their feeding migrations."
+            }
+        },
+        {
+            "id": 4,
+            "tour": {
+                "name": "Bay of Fundy Express",
+                "image": "assets/images/tours/5.png",
+                "cost": "2/3",
+                "whale_sighting_chance": "★★★★",
+                "address": "9 Water St, Brier Island, NS",
+                "coordinates": "44.2717° N, 66.3815° W",
+                "description": "The deep waters of the Bay of Fundy are a magnet for whales. High chances of spotting humpback whales and fin whales during these excursions.",
+                "duration": "~3–3.5 hours"
+            },
+            "ship": {
+                "name": "Bay of Fundy Express – \"Fundy Dreamer\"",
+                "image": "assets/images/ships/5.png",
+                "description": "Fundy Dreamer is a large, comfortable cruiser designed for longer trips in the deep waters of the Bay of Fundy. Equipped with an indoor lounge, outdoor viewing areas, and a marine guide on board, it balances adventure and relaxation perfectly."
+            },
+            "whale": {
+                "name": "Humpback Whale (Megaptera novaeangliae)",
+                "image": "assets/images/whales/4.png",
+                "description": "Humpback whales are among the most recognizable and acrobatic whale species. Known for their impressive breaching and tail-slapping displays, these whales can grow up to 16 meters long and weigh around 30 tons. They are often seen feeding near the surface, using bubble-net techniques to capture schools of fish. Their long pectoral fins and unique fluke patterns make them easy to identify. In Nova Scotia, humpbacks are commonly spotted from June to October during their feeding migrations."
+            }
+        },
+        {
+            "id": 5,
+            "tour": {
+                "name": "Shelburne Ocean Safaris",
+                "image": "assets/images/tours/6.png",
+                "cost": "1/3",
+                "whale_sighting_chance": "★★",
+                "address": "20 Dock St, Shelburne, NS",
+                "coordinates": "43.7645° N, 65.3204° W",
+                "description": "A quieter route ideal for birdwatchers and nature lovers. Occasional sightings of small groups of minke whales and a wide variety of seabirds.",
+                "duration": "~2 hours"
+            },
+            "ship": {
+                "name": "Shelburne Ocean Safaris – \"Coastal Runner\"",
+                "image": "assets/images/ships/6.png",
+                "description": "Coastal Runner is a nimble and fast open-deck speedboat. Built for small groups, it’s perfect for adventurous spirits seeking close encounters with whales and sea life. Safety gear and waterproof jackets are provided on board for a thrilling ride."
+            },
+            "whale": {
+                "name": "Minke Whale (Balaenoptera acutorostrata)",
+                "image": "assets/images/whales/3.png",
+                "description": "Minke whales are the smallest of the baleen whales found near Nova Scotia. Typically reaching up to 10 meters in length, they are quick, elusive, and often solitary. Minke whales are known for their curious behavior, sometimes approaching boats. Their streamlined bodies and pointed snouts help distinguish them from other species. Sightings are possible throughout the whale-watching season, especially in calm waters near the coastline."
+            }
+        },
+        {
+            "id": 6,
+            "tour": {
+                "name": "Cape Breton Whale Watch",
+                "image": "assets/images/tours/1.png",
+                "cost": "3/3",
+                "whale_sighting_chance": "★★★",
+                "address": "9575 Cabot Trail, Pleasant Bay, NS",
+                "coordinates": "46.8377° N, 60.8048° W",
+                "description": "Scenic cruises along the Cape Breton Highlands National Park, with frequent sightings of pilot whales and dolphin pods in the open waters.",
+                "duration": "~2.5 hours"
+            },
+            "ship": {
+                "name": "Cape Breton Whale Watch – \"Highland Breeze\"",
+                "image": "assets/images/ships/2.png",
+                "description": "Highland Breeze is a spacious tour boat with a panoramic upper deck and heated indoor cabin. Designed for comfort during longer excursions, it offers plenty of space for whale watching, photography, and enjoying the breathtaking Cape Breton coastline."
+            },
+            "whale": {
+                "name": "Pilot Whale (Globicephala melas)",
+                "image": "assets/images/whales/1.png",
+                "description": "Pilot whales are actually large dolphins, belonging to the same family as orcas. They are highly social, traveling in pods that can range from a few individuals to over a hundred. Pilot whales have robust bodies, rounded foreheads (melons), and long, curved dorsal fins. They are known for their close group formations and synchronized swimming. In the Cape Breton area and other offshore spots, pilot whales are often seen from mid-summer to early autumn."
+            }
+        },
+        {
+            "id": 7,
+            "tour": {
+                "name": "Peggy’s Cove Boat Tours",
+                "image": "assets/images/tours/7.png",
+                "cost": "2/3",
+                "whale_sighting_chance": "★★",
+                "address": "178 Peggy's Point Rd, Peggy's Cove, NS",
+                "coordinates": "44.4912° N, 63.9158° W",
+                "description": "Short cruises featuring breathtaking views of Peggy's Cove Lighthouse and the rugged coastline. Occasionally offers whale sightings near the shore.",
+                "duration": "~1.5 hours"
+            },
+            "ship": {
+                "name": "Peggy’s Cove Boat Tours – \"Lighthouse Voyager\"",
+                "image": "assets/images/ships/4.png",
+                "description": "Lighthouse Voyager is a charming small boat specialized for short scenic trips. It features a covered seating area and a semi-open bow for great photo opportunities of Peggy’s Cove and occasional whale sightings near the shore."
+            },
+            "whale": {
+                "name": "Minke Whale (Balaenoptera acutorostrata)",
+                "image": "assets/images/whales/3.png",
+                "description": "Minke whales are the smallest of the baleen whales found near Nova Scotia. Typically reaching up to 10 meters in length, they are quick, elusive, and often solitary. Minke whales are known for their curious behavior, sometimes approaching boats. Their streamlined bodies and pointed snouts help distinguish them from other species. Sightings are possible throughout the whale-watching season, especially in calm waters near the coastline."
+            }
+        }
+    ]
+}
