@@ -12,9 +12,22 @@ class MainApp extends StatelessWidget {
       create: (context) => NovaScotiaPlacesCubit(),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
+         builder: (context, child) {
+          return Stack(
+            children: [
+              Positioned.fill(
+                child: Image.asset(
+                  'assets/images/app_background.png',
+                  fit: BoxFit.cover,
+                ),
+              ),
+              child ?? const SizedBox.shrink(),
+            ],
+          );
+        },
         theme: ThemeData(
-          scaffoldBackgroundColor: Color(0xFF153A77),
-          appBarTheme: AppBarTheme(color: Color(0xFF153A77)),
+          scaffoldBackgroundColor: Colors.transparent,
+          appBarTheme: AppBarTheme(color: Colors.transparent),
         ),
         home: LoadingScreen(),
       ),

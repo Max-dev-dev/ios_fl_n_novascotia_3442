@@ -21,7 +21,7 @@ class _TourDetailScreenState extends State<TourDetailScreen> {
     final isFav = cubit.isFavorite(widget.place.id);
 
     return Scaffold(
-      backgroundColor: const Color(0xFF2567B1),
+      //backgroundColor: const Color(0xFF2567B1),
       body: SafeArea(
         child: Column(
           children: [

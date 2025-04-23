@@ -11,9 +11,9 @@ class ToursListScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color(0xFF2567B1),
+      //backgroundColor: const Color(0xFF2567B1),
       appBar: AppBar(
-        backgroundColor: const Color(0xFF2567B1),
+       //backgroundColor: const Color(0xFF2567B1),
         title: const Text(
           'Tours List',
           style: TextStyle(
